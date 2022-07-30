@@ -11,6 +11,7 @@
 
 ---------
 
-### 수업
+### Daily
 - [2022.07.28] [판다스와 크롤링](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/0728.md)
 - [2022.07.29] [크롤링 find와 select](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/0729.md) 
+- [2022.07.30] [그래프 시각화 연습](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0730.md)
