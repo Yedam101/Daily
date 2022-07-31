@@ -40,3 +40,17 @@
   76%|████████████████████      | 7568/10000 [00:33<00:10, 229.00it/s]
   ```
 
+
+- 데이터프레임 csv로 저장하는 코드
+  ```python
+  df.to_csv('./(파일명)).csv', index= False)
+  ```
+
+- 판다스로 table 탭 스크래핑
+  ```python
+  table_pd = pd.read_html(url)
+  table_pd[0]
+  ```
+
+
+  
