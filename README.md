@@ -3,7 +3,7 @@
 -------------
 
 ### 유용한 코드
-- [useful_code](https://github.com/Yedam101/TIL/blob/master/useful_code.md)
+- [Useful_Code](https://github.com/Yedam101/TIL/blob/master/useful_code.md)
 -----------
 
 ### github 특강
