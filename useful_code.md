@@ -52,5 +52,23 @@
   table_pd[0]
   ```
 
+- input 값을 *로 받는 getpass
+ ```python
+ import getpass
+ input = getpass.getpass('입력하세요: ')
+ ```
+
+- 셀레니움에서 코드를 단순화하는 ActionChains
+  ```python
+  from selenium.webdriver.common.action_chains import ActionChains
+  
+  (
+  action.send_keys('woorin0049@naver.com').key_down(Keys.ENTER)
+  .send_keys('내용').key_down(Keys.TAB)
+  .send_keys('내용')
+  .perform()
+  )
+  ```
+
 
   
