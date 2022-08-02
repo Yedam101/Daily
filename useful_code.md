@@ -70,5 +70,22 @@
   )
   ```
 
+- 값이 숫자인지 알파벳인지 판별하는 메소드
 
+  <value>.isdigit(): 가 숫자라면 True, 아니면 False를 리턴
+
+  <value>.isalpha() : 가 알파벳이라면 True, 아니면 False를 리턴
+
+ 
+  ```python
+  N = input()
+
+  if N.isdigit() : 
+      print("입력값은 숫자입니다")
+  elif N.isalpha() :
+      print("입력값은 알파벳입니다.")
+  ```
+ 
+
+  * isdigit() 이 True라고 해도, 아직 데이터타입은 str이므로 int로 변환 후에 연산 등을 진행해야 한다.
   
