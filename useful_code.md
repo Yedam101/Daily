@@ -95,3 +95,9 @@
   l_min = len(min(strs, key=len))
   l_max = len(max(strs, key=len))
   ```
+
+- Python 리스트에 새로운 원소를 추가하는 방법: append(x)와 extend(iterable)
+  ```
+  - list.append(x)는 리스트 끝에 x 1개를 그대로 넣는다.
+
+  - list.extend(iterable)는 리스트 끝에 가장 바깥쪽 iterable의 모든 항목을 넣는다.
