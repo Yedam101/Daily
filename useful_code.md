@@ -87,5 +87,11 @@
   ```
  
 
-  * isdigit() 이 True라고 해도, 아직 데이터타입은 str이므로 int로 변환 후에 연산 등을 진행해야 한다.
+  * isdigit() 이 True라고 해도, 아직 데이터타입은 str이므로 int로 변환 후에 연산 등을 진행해야 한다.  
   
+  
+- 리스트의 요소들 중에서 길이가 가장 짧은 혹은 긴 요소를 구하는 코드
+  ```python
+  l_min = len(min(strs, key=len))
+  l_max = len(max(strs, key=len))
+  ```
