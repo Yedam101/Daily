@@ -6,6 +6,10 @@
 - [Useful_Code](https://github.com/Yedam101/TIL/blob/master/useful_code.md)
 -----------
 
+### 머신러닝과 딥러닝 주요 개념 정리
+- [Machine_Deep](https://github.com/Yedam101/TIL/blob/master/Machine_Deep.md)
+-----------
+
 ### github 특강
 - [2022.07.25] [마크다운실습](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/TIL_Day_01.md)
 
