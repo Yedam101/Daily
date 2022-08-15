@@ -7,11 +7,61 @@
   <br/>
   <br/>
 
-  ### - 비용 함수(Cost function)
+  ### - 비용 함수(Loss or Cost function)
    <br/>
-  실제값과 예측값에 대한 오차에 대한 식을 목적 함수(Objective function) 또는 비용 함수(Cost function) 또는 손실 함수(Loss function) 라고 한다. 함수의 값을 최소화하거나, 최대화하거나 하는 목적을 가진 함수를 목적 함수(Objective function), 값을 최소화하려고 하면 이를 비용 함수(Cost function) 또는 손실 함수(Loss function)라고 한다.
+  실제값과 예측값에 대한 오차에 대한 식을 목적 함수(Objective function) 또는 비용 함수(Cost function) 또는 손실 함수(Loss function) 라고 한다. 함수의 값을 최소화하거나, 최대화하거나 하는 목적을 가진 함수를 목적 함수(Objective function), 값을 최소화하려고 하면 이를 비용 함수(Cost function) 또는 손실 함수(Loss function)라고 한다. 종류로는 MAE(mean absolute error), hinge, categorical crossentropy, sparse categorical crossentropy, binary crossentropy 등이 있어 훈련시키는 모델에 적합한 손실함수를 선택하는 것이 중요하다.
   <br/>
   <br/>
+
+  ### - 평가지표(Metric)
+   <br/>
+  Metric은 어떤 모델을 평가(Evaluate)하기 위해서 사용하는 값이다. 손실함수가 모델의 성능을 끌어올리기 위해서 참조하는 값, 즉 트레이닝(training, 학습)을 위해서 사용하는 나침반과 같은 존재라고 한다면, Metric은 훈련 과정을 모니터링해서 이 모델의 성능이 어느 정도이다를 알려주는 개념이다. Metric을 정한다는 것은 훈련된 모델의 성능을 평가할 때 어떤 평가지표로 평가할지를 정한다는 의미이다. 
+
+  학습곡선을 그릴 때 손실함수와 평가지표를 에포크(epoch)마다 계산한 것을 그려주는데, 손실함수의 추이와 평가지표의 추이를 비교해보면서 모델이 과대적합(overfit) 또는 과소적합(underfit)되고 있는지 여부를 확인할 수 있다.  
+
+  1. Accuracy: 맞춘 것 / 전체
+   
+  아래는  **이진 분류** 모델을 평가할 때 사용 <br/>
+
+  1. Sensitivity: 암환자로 맞춘 것 / 암환자 수 TP / TP + FN  
+   
+  2. Specificity: 정상이라고 맞춘 것 / 정상환자 수 TN / TN + FP
+  3. ROC Curve: True Positive Rate(TP)와 True Negative Rate(FN)의 비율을 그래프로 그린 것. 즉 모든 Threshold에 대한 Sensitivity / Specificity의 관계 그래프.
+  4. AUC: ROC의 넓이
+
+  > <br/>If correctly identifying positives is important for us, then we should choose a model with higher Sensitivity. However, if correctly identifying negatives is more important, then we should choose specificity as the measurement metric.<br/>
+  <br/>
+
+
+  <br/>
+
+
+  ### -  혼동 행렬(Confusion Matrix)
+   <br/>
+
+  머신 러닝에서는 맞춘 문제수를 전체 문제수로 나눈 값을 정확도(Accuracy)라고 한다. 하지만 정확도는 맞춘 결과와 틀린 결과에 대한 세부적인 내용을 알려주지는 않는다. 이를 위해서 사용하는 것이 혼동 행렬(Confusion Matrix)이다. 
+   <br/><br/>
+  | -   | 예측 참   | 예측 거짓 |
+  |:--------|:--------:|--------:|
+  | 실제 참   | TP | FN       |
+  | 실제 거짓     | FP   | TN      |
+  <br/>
+ 
+  * True Positive(TP) : 실제 True인 정답을 True라고 예측 (정답)  
+  * True Negative(TN) : 실제 False인 정답을 False라고 예측 (정답) 
+  * False Negative(FN) : 실제 True인 정답을 False라고 예측 (오답)
+  * False Positive(FP) : 실제 False인 정답을 True라고 예측 (오답)
+
+<br/><br/>
+
+  ### -  Treshold(분류 결정 임계값)
+   <br/>
+  로지스틱 회귀 모형에서 특정 이메일에 관해 스팸일 확률이 0.95가 반환 되었다면 이 이메일은 스팸일 가능성이 매우 높은 메일로 예측 할 수 있다. 이와 반대로 동일한 로지스틱 회귀 모형에서 예측 점수가 0.03인 이메일이라면 이 이메일은 스팸이 아닐 가능성이 높다. 그런데 스팸이 확률이 0.6인 이메일은 처리하기가 애매하다. <br/>  
+
+  <br/>
+  이렇게 애매한 값을 이분법으로 확실히 분류를 할 기준이 필요하고, 이 기준을 Threshold라고 한다. 로지스틱 회귀 값을 이진 카테고리에 매핑(Mapping)하려면 분류 임계값(Classification Threshold, 결정 임계값이라고도 함)을 정의해야 한다. 일반적으로 이진 분류에서는 임계값을 0.5(50%)로 정하고 임계값보다 확률이 크면 True, 임계값보다 작으면 False이다. 임계값을 낮출수록 True 값이 많아진다. 
+
+<br/><br/>
 
   ### - 옵티마이저(Optimizer)
  <br/>
@@ -77,25 +127,6 @@
   <br/>
   <br/>
 
-
-  ### -  혼동 행렬(Confusion Matrix)
-   <br/>
-
-  머신 러닝에서는 맞춘 문제수를 전체 문제수로 나눈 값을 정확도(Accuracy)라고 한다. 하지만 정확도는 맞춘 결과와 틀린 결과에 대한 세부적인 내용을 알려주지는 않는다. 이를 위해서 사용하는 것이 혼동 행렬(Confusion Matrix)이다. 
-   <br/><br/>
-  | -   | 예측 참   | 예측 거짓 |
-  |:--------|:--------:|--------:|
-  | 실제 참   | TP | FN       |
-  | 실제 거짓     | FP   | TN      |
-  <br/>
- 
-  * True Positive(TP) : 실제 True인 정답을 True라고 예측 (정답)  
-  
-  * False Positive(FP) : 실제 False인 정답을 True라고 예측 (오답)
-  * False Negative(FN) : 실제 True인 정답을 False라고 예측 (오답)
-  * True Negative(TN) : 실제 False인 정답을 False라고 예측 (정답)
-<br/><br/>
-
   ### -  훈련 데이터의 오차와 테스트 데이터의 오차는 손실이라고도 부른다.
   <br/>
   <br/>
@@ -141,7 +172,6 @@
 
    > <br/>사람마다 동일한 문제지와 정답지를 주더라도 공부 방법은 사실 천차만별입니다. 어떤 사람은 문제지 하나를 다 풀고 나서 정답을 채점하는데 어떤 사람은 문제지의 문제를 10개 단위로 끊어서 공부합니다. 문제 10개를 풀고 채점하고 다시 다음 문제 10개를 풀고 채점하고 반복하는 방식으로 학습하는 방식입니다. 또한 게으른 사람은 문제지를 세 번 공부하는데, 성실한 사람은 문제지의 문제를 달달 외울만큼 문제지를 100번 공부합니다. 기계도 똑같습니다. 같은 문제지와 정답지를 주더라도 공부 방법을 다르게 설정할 수 있습니다.<br/>
    <br/> 
-
     
  <br/>
 
