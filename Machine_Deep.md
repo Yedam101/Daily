@@ -29,11 +29,10 @@
   3. ROC Curve: True Positive Rate(TP)와 True Negative Rate(FN)의 비율을 그래프로 그린 것. 즉 모든 Threshold에 대한 Sensitivity / Specificity의 관계 그래프.
   4. AUC: ROC의 넓이
 
-    If correctly identifying positives is important for us, then we should choose a model with higher Sensitivity. However, if correctly identifying negatives is more important, then we should choose specificity as the measurement metric.
-  <br/>
+  ><br/>If correctly identifying positives is important for us, then we should choose a model with higher Sensitivity. However, if correctly identifying negatives is more important, then we should choose specificity as the measurement metric.
+  <br/><br/>
 
 
-  <br/>
 
 
   ### -  혼동 행렬(Confusion Matrix)
@@ -104,7 +103,7 @@
   3) 회귀 문제(Regression)
   회귀 문제는 분류 문제처럼 둘 중 하나를 선택해야 한다거나, 책이 입고되었을 때 5개의 책장 중 하나의 책장을 골라야하는 경우처럼 정답이 몇 개의 정해진 선택지 중에서 정해져 있는 경우가 아니라 어떠한 연속적인 값의 범위 내에서 예측값이 나오는 경우를 말한다.  
               
-    예를 들어 역과의 거리, 인구 밀도, 방의 개수 등을 입력하면 부동산 가격을 예측하는 머신 러닝 모델이 있다고 하면 머신 러닝 모델이 부동산 가격을 7억 8,456만 3,450원으로 예측하는 경우도 있을 것이고, 8억 1257만 300원으로 예측하는 경우도 있을 수 있다. 즉, 특정 값의 범위 내에서는 어떤 숫자도 나올 수 있다. 기존의 분류 문제와 같이 분리된(비연속적인) 답이 결과가 아니라 연속된 값을 결과로 가지는 이러한 문제를 회귀 문제라고 부른다. 회귀 문제의 예시로 시계열 데이터(Time Series Data)를 이용한 주가 예측, 생산량 예측, 지수 예측 등이 있다.
+  ><br/>예를 들어 역과의 거리, 인구 밀도, 방의 개수 등을 입력하면 부동산 가격을 예측하는 머신 러닝 모델이 있다고 하면 머신 러닝 모델이 부동산 가격을 7억 8,456만 3,450원으로 예측하는 경우도 있을 것이고, 8억 1257만 300원으로 예측하는 경우도 있을 수 있다. 즉, 특정 값의 범위 내에서는 어떤 숫자도 나올 수 있다. 기존의 분류 문제와 같이 분리된(비연속적인) 답이 결과가 아니라 연속된 값을 결과로 가지는 이러한 문제를 회귀 문제라고 부른다. 회귀 문제의 예시로 시계열 데이터(Time Series Data)를 이용한 주가 예측, 생산량 예측, 지수 예측 등이 있다.
   <br/>
   <br/>
 
@@ -226,7 +225,7 @@
   깊은 인공 신경망을 학습하다보면 역전파 과정에서 입력층으로 갈 수록 기울기(Gradient)가 점차적으로 작아지는 현상이 발생할 수 있다. 입력층에 가까운 층들에서 가중치들이 업데이트가 제대로 되지 않으면 결국 최적의 모델을 찾을 수 없게 되는데 이를 기울기 소실이라고 한다.
   반대로 기울기가 점차 커지며 가중치들이 비정상적으로 큰 값이 되면서 결국 발산되기도 하는데 이를 기울기 폭주라고 한다. <br/> <br/>
   
-    은닉층에서는 시그모이드 함수를 사용하지 마세요. Leaky ReLU를 사용하면 모든 입력값에 대해서 기울기가 0에 수렴하지 않아 죽은 ReLU 문제를 해결합니다. 은닉층에서는 ReLU나 Leaky ReLU와 같은 ReLU 함수의 변형들을 사용하세요.
+  ><br/>은닉층에서는 시그모이드 함수를 사용하지 마세요. Leaky ReLU를 사용하면 모든 입력값에 대해서 기울기가 0에 수렴하지 않아 죽은 ReLU 문제를 해결합니다. 은닉층에서는 ReLU나 Leaky ReLU와 같은 ReLU 함수의 변형들을 사용하세요.
   <br/> <br/>
   
   ### -  가중치 초기화(Weight initialization)
