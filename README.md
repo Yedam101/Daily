@@ -9,6 +9,7 @@
 ### 머신러닝과 딥러닝 주요 개념 정리
 - [Machine_Deep](https://github.com/Yedam101/TIL/blob/master/Machine_Deep.md)
 - [이수안 딥러닝 정리](https://github.com/Yedam101/Daily/blob/master/LSA_DeepLearning.ipynb)
+- [이수안 CNN 정리](https://github.com/Yedam101/Daily/blob/master/Convolution%20Neural%20Networks%2C%20CNN.ipynb)
 -----------
 
 ### github 특강
