@@ -35,3 +35,5 @@
 - [2022.08.14] [백준](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0814.md)
 - [2022.08.15] [백준](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0815.md)
 - [2022.08.16] [백준](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0816.md)
+- [2022.08.19] [프로그래머스](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0819.md)
+S
