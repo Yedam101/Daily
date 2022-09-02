@@ -12,6 +12,11 @@
 - [이수안 CNN 정리](https://github.com/Yedam101/Daily/blob/master/Convolution%20Neural%20Networks%2C%20CNN.ipynb)
 -----------
 
+### 통계 관련
+- [Statistics](https://github.com/Yedam101/Daily/blob/master/Statistics.md)
+
+---------
+
 ### github 특강
 - [2022.07.25] [마크다운실습](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/TIL_Day_01.md)
 
