@@ -251,9 +251,10 @@
 
   ### - 모멘텀(momentem)
    <br/>
-   > Momentum is an extension to the gradient descent optimization algorithm that allows the search to build inertia in a direction in the search space and overcome the oscillations of noisy gradients and coast across flat spots of the search space.
-   
-   모멘텀은 신경망의 학습 안정성과 속도를 높여 학습을 잘 시키기 위해 사용된다. 모멘텀은 가중치를 갱신할 때 델타 규칙에 모멘텀을 추가로 더한다. 모멘텀을 사용하면 가중치 값이 바로 바뀌지 않고 어느 정도 일정한 방향을 유지하면서 움직이게 된다. 또한 가속도처럼 같은 방향으로 더 많이 변화시켜 학습속도를 높여줘 빠른 학습을 하게 한다.
+  Momentum is an extension to the gradient descent optimization algorithm that allows the search to build inertia in a direction in the search space and overcome the oscillations of noisy gradients and coast across flat spots of the search space.  
+    
+  <br/>
+  모멘텀은 신경망의 학습 안정성과 속도를 높여 학습을 잘 시키기 위해 사용된다. 모멘텀은 가중치를 갱신할 때 델타 규칙에 모멘텀을 추가로 더한다. 모멘텀을 사용하면 가중치 값이 바로 바뀌지 않고 어느 정도 일정한 방향을 유지하면서 움직이게 된다. 또한 가속도처럼 같은 방향으로 더 많이 변화시켜 학습속도를 높여줘 빠른 학습을 하게 한다.
   <br/> <br/>
 
 
