@@ -249,6 +249,14 @@
   <br/>
   <br/>
 
+  ### - 모멘텀(momentem)
+   <br/>
+   > Momentum is an extension to the gradient descent optimization algorithm that allows the search to build inertia in a direction in the search space and overcome the oscillations of noisy gradients and coast across flat spots of the search space.
+   
+   모멘텀은 신경망의 학습 안정성과 속도를 높여 학습을 잘 시키기 위해 사용된다. 모멘텀은 가중치를 갱신할 때 델타 규칙에 모멘텀을 추가로 더한다. 모멘텀을 사용하면 가중치 값이 바로 바뀌지 않고 어느 정도 일정한 방향을 유지하면서 움직이게 된다. 또한 가속도처럼 같은 방향으로 더 많이 변화시켜 학습속도를 높여줘 빠른 학습을 하게 한다.
+  <br/> <br/>
+
+
   ### - 오즈비
    <br/>
   오즈는 특정 이벤트가 발생할 확률이다. 오즈비는 p/(1-p)로 나타낼 수 있다. 여기서 p는 양성 샘플일 확률이며 양성 샘플은 '예측 대상'을 말한다. ex) 환자가 어떤 질병을 가지고 있을 확률. 클래스 레이블 y=1인 샘플. 이 오즈비에 로그 함수(로그 오즈)를 취해 로짓(logit)함수를 정의한다.
