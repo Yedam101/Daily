@@ -25,6 +25,7 @@
 ## Daily
 <details markdown="1">
 <summary>Jul-Aug</summary>
+
 - [2022.07.28] [판다스와 크롤링](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/0728.md)
 - [2022.07.29] [크롤링 find와 select](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/0729.md) 
 - [2022.07.30] [그래프 시각화 연습](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0730.md)
@@ -45,12 +46,14 @@
 - [2022.08.19] [프로그래머스](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0819.md)
 - [2022.08.26] [LeetCode](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0826.md)
 - [2022.08.28] [LeetCode](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0828.md)
+
 </details>
 
 <details markdown="1">
 <summary>Sep-Oct</summary>
+
 - [2022.09.10] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0910.md)
 - [2022.09.11] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0911.md)
 - [2022.09.12] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0912.md)
 
-
+</details>
