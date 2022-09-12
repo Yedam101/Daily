@@ -2,27 +2,28 @@
 > 매일 배운 내용 정리하기.
 -------------
 
-### 유용한 코드
+## 유용한 코드
 - [Useful_Code](https://github.com/Yedam101/TIL/blob/master/useful_code.md)
 -----------
 
-### 머신러닝과 딥러닝 주요 개념 정리
+## 머신러닝과 딥러닝 주요 개념 정리
 - [Machine_Deep](https://github.com/Yedam101/TIL/blob/master/Machine_Deep.md)
 - [이수안 딥러닝 정리](https://github.com/Yedam101/Daily/blob/master/LSA_DeepLearning.ipynb)
 - [이수안 CNN 정리](https://github.com/Yedam101/Daily/blob/master/Convolution%20Neural%20Networks%2C%20CNN.ipynb)
 -----------
 
-### 통계 관련
+## 통계 관련
 - [Statistics](https://github.com/Yedam101/Daily/blob/master/Statistics.md)
 
 ---------
 
-### github 특강
+## github 특강
 - [2022.07.25] [마크다운실습](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/TIL_Day_01.md)
 
 ---------
 
-### Daily
+## Daily
+### Jul-Aug
 - [2022.07.28] [판다스와 크롤링](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/0728.md)
 - [2022.07.29] [크롤링 find와 select](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/0729.md) 
 - [2022.07.30] [그래프 시각화 연습](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0730.md)
@@ -43,6 +44,7 @@
 - [2022.08.19] [프로그래머스](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0819.md)
 - [2022.08.26] [LeetCode](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0826.md)
 - [2022.08.28] [LeetCode](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0828.md)
+### Sep-Oct
 - [2022.09.10] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0910.md)
 - [2022.09.11] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0911.md)
 - [2022.09.12] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0912.md)
