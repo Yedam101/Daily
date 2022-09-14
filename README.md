@@ -33,6 +33,8 @@
 - [2022.09.10] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0910.md)
 - [2022.09.11] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0911.md)
 - [2022.09.12] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0912.md)
+- [2022.09.13] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0913.md)
+- [2022.09.13] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0914.md)
 
 </details>
 
