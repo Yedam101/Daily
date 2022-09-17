@@ -35,6 +35,7 @@
 - [2022.09.12] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0912.md)
 - [2022.09.13] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0913.md)
 - [2022.09.14] [백준](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0914.md)
+- [2022.09.17] [프로그래머스](https://github.com/Yedam101/Daily/blob/master/Sep-Oct/0917.md)
 
 </details>
 
