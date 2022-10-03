@@ -1,6 +1,6 @@
 # Today I Learned
 
-## Daily
+## Algorithm
 <details markdown="1">
 <summary>Jul-Aug</summary>
 
@@ -41,6 +41,10 @@
 </details>
 
 -------------
+
+## HTTP
+- [HTML_1](https://github.com/Yedam101/web/blob/master/1.html)
+-----------
 
 ## 유용한 코드
 - [Useful_Code](https://github.com/Yedam101/TIL/blob/master/useful_code.md)
