@@ -1,4 +1,4 @@
-# Today I Learned
+# All About CS
 
 ## Algorithm
 <details markdown="1">
