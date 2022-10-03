@@ -1,4 +1,4 @@
-# Today I Learned
+# All About CS
 
 ## Daily
 <details markdown="1">
