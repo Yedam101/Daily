@@ -2,13 +2,8 @@
 
 ## Algorithm
 <details markdown="1">
-<summary>Jul-Aug</summary>
+<summary>Aug</summary>
 
-- [2022.07.28] [판다스와 크롤링](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/0728.md)
-- [2022.07.29] [크롤링 find와 select](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/0729.md) 
-- [2022.07.30] [그래프 시각화 연습](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0730.md)
-- [2022.07.31] [크롤링 find와 pd.table, 멜론차트](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0731.md)
-- [2022.08.01] [셀레니움과 API](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0801.md)
 - [2022.08.02] [LeetCode](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0802.md)
 - [2022.08.03] [LeetCode](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0803.md)
 - [2022.08.04] [LeetCode](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0804.md)
@@ -45,6 +40,15 @@
 ## HTTP
 - [HTML_1](https://github.com/Yedam101/web/blob/master/1.html)
 -----------
+
+## Web Crawling
+- [2022.07.28] [판다스와 크롤링](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/0728.md)
+- [2022.07.29] [크롤링 find와 select](https://github.com/Yedam101/TIL/blob/master/Jul-Aug/0729.md) 
+- [2022.07.30] [그래프 시각화 연습](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0730.md)
+- [2022.07.31] [크롤링 find와 pd.table, 멜론차트](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0731.md)
+- [2022.08.01] [셀레니움과 API](https://github.com/Yedam101/Daily/blob/master/Jul-Aug/0801.md)
+
+-------------
 
 ## 유용한 코드
 - [Useful_Code](https://github.com/Yedam101/TIL/blob/master/useful_code.md)
