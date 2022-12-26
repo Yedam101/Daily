@@ -33,7 +33,7 @@
 - [2022.09.17] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0917.md)
 - [2022.09.20] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0920.md)
 
-----------------
+<br>
 
 - [2022.12.26] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/1226.md)
 
