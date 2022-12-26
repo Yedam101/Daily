@@ -1,4 +1,4 @@
-# All About CS
+# KEEP STUDYing
 
 ## Algorithm
 <details markdown="1">
