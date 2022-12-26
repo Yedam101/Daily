@@ -39,11 +39,12 @@
 
 </details>
 
--------------
+<br>
 
 ## HTTP
 - [HTML_1](https://github.com/Yedam101/web#readme)
------------
+
+<br>
 
 ## Web Crawling
 - [2022.07.28] [판다스와 크롤링](https://github.com/Yedam101/All_About_CS/blob/master/Jul-Aug/0728.md)
@@ -52,22 +53,24 @@
 - [2022.07.31] [크롤링 find와 pd.table, 멜론차트](https://github.com/Yedam101/All_About_CS/blob/master/Jul-Aug/0731.md)
 - [2022.08.01] [셀레니움과 API](https://github.com/Yedam101/All_About_CS/blob/master/Jul-Aug/0801.md)
 
--------------
+<br>
 
 ## 유용한 코드
 - [Useful_Code](https://github.com/Yedam101/All_About_CS/blob/master/useful_code.md)
------------
+
+<br>
 
 ## 머신러닝과 딥러닝 주요 개념 정리
 - [Machine_Deep](https://github.com/Yedam101/All_About_CS/blob/master/Machine_Deep.md)
 - [이수안 딥러닝 정리](https://github.com/Yedam101/All_About_CS/blob/master/LSA_DeepLearning.ipynb)
 - [이수안 CNN 정리](https://github.com/Yedam101/All_About_CS/blob/master/others/Convolution%20Neural%20Networks%2C%20CNN.ipynb)
------------
+
+<br>
 
 ## 통계 관련
 - [Statistics](https://github.com/Yedam101/All_About_CS/blob/master/Statistics.md)
 
----------
+<br>
 
 ## github 특강
 - [2022.07.25] [마크다운실습](https://github.com/Yedam101/All_About_CS/blob/master/Jul-Aug/TIL_Day_01.md)
