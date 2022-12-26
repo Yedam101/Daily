@@ -25,17 +25,17 @@
 <details markdown="1">
 <summary>Sep-</summary>
 
-- [2022.09.10] [백준](https://github.com/Yedam101/All_About_CS/blob/master/Sep-/0910.md)
-- [2022.09.11] [백준](https://github.com/Yedam101/All_About_CS/blob/master/Sep-/0911.md)
-- [2022.09.12] [백준](https://github.com/Yedam101/All_About_CS/blob/master/Sep-/0912.md)
-- [2022.09.13] [백준](https://github.com/Yedam101/All_About_CS/blob/master/Sep-/0913.md)
-- [2022.09.14] [백준](https://github.com/Yedam101/All_About_CS/blob/master/Sep-/0914.md)
-- [2022.09.17] [프로그래머스](https://github.com/Yedam101/Daily/blob/master/Sep-/0917.md)
-- [2022.09.20] [프로그래머스](https://github.com/Yedam101/DaAll_About_CSily/blob/master/Sep-/0920.md)
+- [2022.09.10] [백준](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0910.md)
+- [2022.09.11] [백준](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0911.md)
+- [2022.09.12] [백준](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0912.md)
+- [2022.09.13] [백준](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0913.md)
+- [2022.09.14] [백준](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0914.md)
+- [2022.09.17] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0917.md)
+- [2022.09.20] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0920.md)
 
 ----------------
 
-- [2022.12.26] [프로그래머스](https://github.com/Yedam101/DaAll_About_CSily/blob/master/Sep-/1226.md)
+- [2022.12.26] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/1226.md)
 
 </details>
 
