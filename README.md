@@ -56,19 +56,19 @@
 <br>
 
 ## 유용한 코드
-- [Useful_Code](https://github.com/Yedam101/All_About_CS/blob/master/useful_code.md)
+- [Useful_Code](https://github.com/Yedam101/All_About_CS/blob/master/others/Useful_Code.md)
 
 <br>
 
 ## 머신러닝과 딥러닝 주요 개념 정리
-- [Machine_Deep](https://github.com/Yedam101/All_About_CS/blob/master/Machine_Deep.md)
-- [이수안 딥러닝 정리](https://github.com/Yedam101/All_About_CS/blob/master/LSA_DeepLearning.ipynb)
+- [Machine_Deep](https://github.com/Yedam101/All_About_CS/blob/master/others/Machine_Deep.md)
+- [이수안 딥러닝 정리](https://github.com/Yedam101/All_About_CS/blob/master/others/LSA_DeepLearning.ipynb)
 - [이수안 CNN 정리](https://github.com/Yedam101/All_About_CS/blob/master/others/Convolution%20Neural%20Networks%2C%20CNN.ipynb)
 
 <br>
 
 ## 통계 관련
-- [Statistics](https://github.com/Yedam101/All_About_CS/blob/master/Statistics.md)
+- [Statistics](https://github.com/Yedam101/All_About_CS/blob/master/others/Statistics.md)
 
 <br>
 
