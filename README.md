@@ -38,7 +38,7 @@
 -------------
 
 ## HTTP
-- [HTML_1](https://github.com/Yedam101/web/blob/master/1.html)
+- [HTML_1](https://github.com/Yedam101/web#readme)
 -----------
 
 ## Web Crawling
