@@ -2,7 +2,7 @@
 
 ## Algorithm
 <details markdown="1">
-<summary>Aug</summary>
+<summary>Jul-Aug</summary>
 
 - [2022.08.02] [LeetCode](https://github.com/Yedam101/All_About_CS/blob/master/Jul-Aug/0802.md)
 - [2022.08.03] [LeetCode](https://github.com/Yedam101/All_About_CS/blob/master/Jul-Aug/0803.md)
@@ -23,7 +23,7 @@
 </details>
 
 <details markdown="1">
-<summary>Sep-</summary>
+<summary>Sep</summary>
 
 - [2022.09.10] [백준](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0910.md)
 - [2022.09.11] [백준](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0911.md)
@@ -33,11 +33,14 @@
 - [2022.09.17] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0917.md)
 - [2022.09.20] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/0920.md)
 
-<br>
-
-- [2022.12.26] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/Sep-/1226.md)
-
 </details>
+
+<details markdown="1">
+<summary>on and on</summary>
+
+- [2022.12.26] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/on and on/1226.md)
+
+<br>
 
 <br>
 
