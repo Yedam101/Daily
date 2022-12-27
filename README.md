@@ -40,7 +40,8 @@
 
 - [2022.12.26] [프로그래머스](https://github.com/Yedam101/All_About_CS/tree/master/on and on/1226.md)
 
-<br>
+
+</details>
 
 <br>
 
