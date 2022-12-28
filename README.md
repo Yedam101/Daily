@@ -39,6 +39,7 @@
 <summary>on and on</summary>
 
 - [2022.12.26] [프로그래머스](https://github.com/Yedam101/KEEP_STUDYing/blob/master/on%20and%20on/1226.md)
+- [2022.12.28] [프로그래머스](https://github.com/Yedam101/KEEP_STUDYing/blob/master/on%20and%20on/1228.md)
 
 
 </details>
